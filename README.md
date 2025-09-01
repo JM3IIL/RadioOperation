@@ -2,10 +2,10 @@
 About Operation of Radio Equipment
 
 - [電波法(日本)](./RadioActJP.md)
- - [電波法施行規則](./RegulationForEnforcementJP.md)
-  - [無線設備規則](./EquipmentRegulationJP.md)
-  - [無線局運用規則](./OperatingRegulationJP.md)
-  - [無線従事者規則](./OperatorsRegulationJP.md) 
+  - [電波法施行規則](./RegulationForEnforcementJP.md)
+    - [無線設備規則](./EquipmentRegulationJP.md)
+    - [無線局運用規則](./OperatingRegulationJP.md)
+    - [無線従事者規則](./OperatorsRegulationJP.md) 
 - [無線通信規則](./RadioRegulations.md)
 
 
