@@ -2,6 +2,7 @@
 
 ## 電波法(昭和二十五年法律第百三十一号)
 https://laws.e-gov.go.jp/law/325AC0000000131
+https://www.japaneselawtranslation.go.jp/ja/laws/view/4818
 
 - (目的)
 - 第一条　この法律は、電波の公平且つ能率的な利用を確保することによつて、公共の福祉を増進することを目的とする。
