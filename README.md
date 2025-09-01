@@ -1,7 +1,7 @@
 # 無線設備の操作
 About Operation of Radio Equipment
 
-- [電波法(日本)](./RadioLawJP.md)
+- [電波法(日本)](./RadioActJP.md)
 
 - [無線通信規則](./RadioRegulations.md)
 
