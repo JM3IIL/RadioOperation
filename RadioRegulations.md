@@ -10,7 +10,7 @@ CHAPTER I – Terminology and technical characteristics
 - ARTICLE 2 Nomenclature
 - ARTICLE 3 Technical characteristics of stations
 
-CHAPTER II – Frequencies 
+CHAPTER II – 周波数 Frequencies 
 - ARTICLE 4 Assignment and use of frequencies 
 - ARTICLE 5 Frequency allocations 
 - ARTICLE 6 Special agreements
@@ -25,7 +25,7 @@ CHAPTER III – Coordination, notification and recording of frequency assignment
 - ARTICLE 13 Instructions to the Bureau
 - ARTICLE 14 Procedure for the review of a finding or other decision of the Bureau
  
-CHAPTER IV – Interferences 
+CHAPTER IV – 干渉 Interferences 
 - ARTICLE 15 Interferences 
 - ARTICLE 16 International monitoring
  
@@ -35,7 +35,7 @@ CHAPTER V – Administrative provisions
 - ARTICLE 19 Identification of stations
 - ARTICLE 20 Service publications and online information systems
 
-CHAPTER VI – Provisions for services and stations 
+CHAPTER VI – 業務と無線局の規定 Provisions for services and stations 
 - ARTICLE 21 Terrestrial and space services sharing frequency bands above 1 GHz
 - ARTICLE 22 Space services
 - ARTICLE 23 Broadcasting services
@@ -47,14 +47,14 @@ CHAPTER VI – Provisions for services and stations
 - ARTICLE 29 Radio astronomy service
 - ARTICLE 29A Radio services related to Earth observation
 
-CHAPTER VII – Distress and safety communications 
+CHAPTER VII – 遭難安全通信 Distress and safety communications 
 - ARTICLE 30 General provisions
 - ARTICLE 31 Frequencies for the global maritime distress and safety system (GMDSS)
 - ARTICLE 32 Operational procedures for distress communications in the global maritime distress and safety system (GMDSS)
 - ARTICLE 33 Operational procedures for urgency and safety communications in the global maritime distress and safety system (GMDSS)
 - ARTICLE 34 Alerting signals in the global maritime distress and safety system (GMDSS)
 
-CHAPTER VIII – Aeronautical services 
+CHAPTER VIII – 航空業務 Aeronautical services 
 - ARTICLE 35 Introduction
 - ARTICLE 36 Authority of the person responsible for the station
 - ARTICLE 37 Operator's certificates
@@ -67,7 +67,7 @@ CHAPTER VIII – Aeronautical services
 - ARTICLE 44 Order of priority of communications
 - ARTICLE 45 General communication procedure
 
-CHAPTER IX – Maritime services 
+CHAPTER IX – 海上業務 Maritime services 
 - ARTICLE 46 Authority of the master
 - ARTICLE 47 Operator's certificates
 - ARTICLE 48 Personnel
