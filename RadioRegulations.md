@@ -85,3 +85,12 @@ CHAPTER IX – 海上業務 Maritime services
 CHAPTER X – Provisions for entry into force of the Radio Regulations 
 - ARTICLE 59 Entry into force and provisional application of the Radio Regulations
 
+### 18.4
+局の許可証を有する者は、国際電気通信連合憲章及び国際電気通信連合条約の関連規定に従い、電気通信の秘密を守ることを要する。さらに許可証には、局が受信機を有する場合には、受信することを許可された以外の無線通信の傍受を禁止すること及びこのような通信を偶然に受信した場合には、これを再生し、第三者に通知し、又はいかなる目的にも使用してはならず、その存在さえも漏らしてはならないことを明示または参照の方法により記載していなければならない。
+
+
+
+
+
+
+
