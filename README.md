@@ -7,6 +7,7 @@ About Operation of Radio Equipment
     - [無線設備規則](./EquipmentRegulationJP.md)
     - [無線局運用規則](./OperatingRegulationJP.md)
     - [無線従事者規則](./OperatorsRegulationJP.md) 
+- [国際電気通信連合憲章](./ITUConstitution.md)
 - [無線通信規則](./RadioRegulations.md)
 
 
