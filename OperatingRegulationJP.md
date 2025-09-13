@@ -74,6 +74,7 @@ https://www1.kaiho.mlit.go.jp/TUHO/keiho/navtex.html
 https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
 
 
-
-
+### DSC
+DSC: Digital Selective Calling
+https://www.tele.soumu.go.jp/horei/law_honbun/72110300.html
 
