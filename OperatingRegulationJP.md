@@ -61,6 +61,10 @@ https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%96%E3%83%86%E3%83%83%E3%82%AF%E3%8
 
 https://www.memex9000.com/2022/11/navtex.html
 
+https://www1.kaiho.mlit.go.jp/TUHO/keiho/navtex.html
+
+
+
 
 
 
