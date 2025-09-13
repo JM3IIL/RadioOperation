@@ -52,7 +52,7 @@ https://laws.e-gov.go.jp/law/325M50080000017
 
 
 
-### NAVTEX
+### ナブテックス NAVTEX
 NAVTEX: NAVigational TEleX
 https://www.tele.soumu.go.jp/horei/law_honbun/72409000.html
 
@@ -74,7 +74,7 @@ https://www1.kaiho.mlit.go.jp/TUHO/keiho/navtex.html
 https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
 
 
-### DSC
+### デジタル選択呼出 DSC
 DSC: Digital Selective Calling
 https://www.tele.soumu.go.jp/horei/law_honbun/72110300.html
 
