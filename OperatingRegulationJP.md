@@ -78,3 +78,16 @@ https://www1.kaiho.mlit.go.jp/TUHO/keiho/navarea11.html
 DSC: Digital Selective Calling
 https://www.tele.soumu.go.jp/horei/law_honbun/72110300.html
 
+- F1B 2177kHz 2187.5kHz
+- F1B 4207.5kHz 6312kHz 8414.5kHz 12577kHz 16804.5kHz
+- F2B 156.525MHz
+
+<!--
+無線電話
+- J3E 2182kHz
+- J3E 4125kHz 6215kHz 8291kHz 12290kHz 16420kHz
+- F3E 156.8MHz
+-->
+
+
+
