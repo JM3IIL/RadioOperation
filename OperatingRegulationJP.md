@@ -58,5 +58,9 @@ https://www.tele.soumu.go.jp/horei/law_honbun/72409000.html
 
 https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%96%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9#:~:text=%E3%83%8A%E3%83%96%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8B%B1%E8%AA%9E:NAVTEX;%20NAVigational,%E3%81%AB%E6%8F%90%E4%BE%9B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82
 
+https://www.memex9000.com/2022/11/navtex.html
+
+
+
 
 
