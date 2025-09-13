@@ -53,6 +53,7 @@ https://laws.e-gov.go.jp/law/325M50080000017
 
 
 ### NAVTEX
+NAVTEX: NAVigational TEleX
 https://www.tele.soumu.go.jp/horei/law_honbun/72409000.html
 
 
