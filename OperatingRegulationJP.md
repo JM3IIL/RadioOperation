@@ -55,6 +55,13 @@ https://laws.e-gov.go.jp/law/325M50080000017
 ### NAVTEX
 NAVTEX: NAVigational TEleX
 https://www.tele.soumu.go.jp/horei/law_honbun/72409000.html
+424kHz(和文)
+- 門司(延行第2) 01:17 05:17 09:17 13:17 17:17 21:17
+- 横浜(富津第2) 01:34 05:34 09:34 13:34 17:34 21:34
+
+518kHz(英文)
+- 門司(延行第2) 02:10 06:10 10:10 14:10 18:10 22:10
+- 横浜(富津第2) 02:20 06:20 10:20 14:20 18:20 22:20
 
 
 https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%96%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9#:~:text=%E3%83%8A%E3%83%96%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%88%E8%8B%B1%E8%AA%9E:NAVTEX;%20NAVigational,%E3%81%AB%E6%8F%90%E4%BE%9B%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82
